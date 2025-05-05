@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pandas
+openpyxl
+lxml
+jupyter
+ipykernel
+mk
